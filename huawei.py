@@ -1,7 +1,6 @@
 
 
 import requests
-from urllib.request import urlretrieve
 
 
 def get_search_headers():
